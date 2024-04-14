@@ -12,5 +12,9 @@ function addnum(x,y){
 }
 
 
+function newfun(){
+    console.log("hey i am new fun")
+}
+
 
 
