@@ -3,10 +3,10 @@ function sayhello(){
 }
 
 function bro(){
-    console.log("hello brother")
-    console.log("new feature 1")
+    console.log("hello brother and sister")
+    console.log("new feature A")
 }
 
 function bro1(){
-    console.log("new feature 2")
+    console.log("new feature B")
 }
