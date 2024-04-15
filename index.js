@@ -6,6 +6,7 @@ function sayname(){
     console.log("my name is "+ "khan")
 }
 
+const hel="hello"
 
 function addnum(x,y){
      return x+y
